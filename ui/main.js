@@ -1,7 +1,7 @@
 console.log('Loaded!');
 
-var element=document.getElementById('main-text')
-element.innerHTML="Hello Rahul"
+//var element=document.getElementById('main-text')
+//element.innerHTML="Hello Rahul"
 
 
 var button=document.getElementById('counter');
@@ -20,7 +20,7 @@ button.onclick=function(){
     
     
     
-}
+};
 
 
 
