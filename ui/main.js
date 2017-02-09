@@ -5,7 +5,9 @@ element.innerHTML="Hello Rahul"
 
 
 var img=document.getElementById('madi')
-img.Onclick=function(){};
+img.Onclick=function(){
+    varinterval=setInterval(moveRight,100);
+};
 
 var marginLeft=0;
 function moveRight()
